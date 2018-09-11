@@ -8,4 +8,5 @@ Mainly this is useful for turning on the TV and AVR from the Kodi remote app. Yo
 
 ## Annoyances
 #You can't check to see if the CEC source has been activated already so we just keep sending the activation constantly.
-#Because of the above annoyance if you start playing a video or song that isn't streaming live you'll miss a couple of seconds waiting for the CEC source to activate.
+#Because of the above annoyance if you start playing a video or song you'll miss a couple of seconds waiting for the CEC source to activate.
+#This affects being able to stop playback when the TV has been put on standby
